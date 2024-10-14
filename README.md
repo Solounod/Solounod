@@ -1,4 +1,6 @@
-### Hi there 👋
+# Ignacio Rojas Aravena 
+
+## Desarrollador Backend con buenas habilidades Frontend
 
 <!--
 **Solounod/Solounod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
