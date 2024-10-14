@@ -2,6 +2,28 @@
 
 ## Desarrollador Backend con buenas habilidades Frontend
 
+### Lenguajes
+
+- Python
+- Javascript
+- Java
+- HTML
+- CSS
+
+### Frameworks
+
+- Django
+- Django Rest Framework
+- React
+- Bootstrap
+- Spring Boot
+
+### Base de datos
+
+- MySql
+- PostgreSQL
+
+
 <!--
 **Solounod/Solounod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
