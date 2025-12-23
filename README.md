@@ -34,15 +34,15 @@ Aquí puedes ver algunas de las soluciones que he desarrollado:
 #### 1. 🤖 Sistema RAG & Automatización con IA
 Integración de **n8n** con **Telegram** para crear un asistente inteligente utilizando técnicas RAG (Retrieval-Augmented Generation).
 * **Tech:** Python, n8n, LLMs.
-* [🔗 Ver Repositorio]([#](https://github.com/Solounod/art-portfolio))
-* #### 2. 🎨 Portafolio para Artista Visual
+* [🔗 Ver Repositorio](https://github.com/Solounod/telegram-rag-drive-bot)
+#### 2. 🎨 Portafolio para Artista Visual
 Plataforma web personalizada para la gestión y exhibición de obras de arte. Enfocado en la optimización de imágenes y experiencia de usuario (UX).
 * **Tech:** Django, HTML/CSS, JavaScript.
-* [🔗 Ver Repositorio]([#](https://github.com/Solounod/art-portfolio)) 
+* [🔗 Ver Repositorio](https://github.com/Solounod/art-portfolio) 
 #### 3. 📅 Sistema de Reservas & Booking (Prototipo)
 Aplicación completa para la gestión de reservas, incluyendo disponibilidad en tiempo real y panel de administración.
 * **Tech:** Django 5, PostgreSQL.
-* [🔗 Ver Repositorio](#) 
+* [🔗 Ver Repositorio](https://github.com/Solounod/prototype_camping_reservations) 
 
 
 ### 🌱 Aprendizaje Continuo
