@@ -1,7 +1,7 @@
 # Hola, soy Ignacio Rojas Aravena 👋
 ### Ingeniero Informático | Backend Developer (Django) | Automatización & IA
 
-¡Bienvenido a mi perfil! Soy un Ingeniero Informático titulado en 2023 con una trayectoria previa en educación. Esta combinación me permite no solo escribir código eficiente, sino también entender las necesidades del usuario y comunicar soluciones técnicas con claridad.
+¡Bienvenido a mi perfil! Soy un Ingeniero Informático con una trayectoria previa en educación. Esta combinación me permite no solo escribir código eficiente, sino también entender las necesidades del usuario y comunicar soluciones técnicas con claridad.
 
 Actualmente trabajo como **Desarrollador Freelance**, creando soluciones web a medida y scripts de automatización para optimizar flujos de trabajo.
 
